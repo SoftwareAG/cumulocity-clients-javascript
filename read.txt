@@ -1,2 +1,3 @@
 creatary-chef;git@bitbucket.org:m2m/creatary-chef.git;creatary-chef;git@github.softwareag.com:IOTA/creatary-chef.git
 cucumber-jvm;git@bitbucket.org:m2m/cucumber-jvm.git;cucumber-jvm;git@github.softwareag.com:IOTA/cucumber-jvm.git
+cumulocity_prod_cms;git@bitbucket.org:m2m/cumulocity_prod_cms.git;cumulocity_prod_cms;git@github.softwareag.com:IOTA/cumulocity_prod_cms.git
