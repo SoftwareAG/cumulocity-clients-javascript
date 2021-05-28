@@ -1,1 +1,2 @@
 creatary-chef;git@bitbucket.org:m2m/creatary-chef.git;creatary-chef;git@github.softwareag.com:IOTA/creatary-chef.git
+cucumber-jvm;git@bitbucket.org:m2m/cucumber-jvm.git;cucumber-jvm;git@github.softwareag.com:IOTA/cucumber-jvm.git
