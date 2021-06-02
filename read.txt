@@ -3,4 +3,8 @@ cucumber-jvm;git@bitbucket.org:m2m/cucumber-jvm.git;cucumber-jvm;git@github.soft
 cumulocity_prod_cms;git@bitbucket.org:m2m/cumulocity_prod_cms.git;cumulocity_prod_cms;git@github.softwareag.com:IOTA/cumulocity_prod_cms.git
 cumulocity_cms_drupal;git@bitbucket.org:m2m/cumulocity_cms_drupal.git;cumulocity_cms_drupal;git@github.softwareag.com:IOTA/cumulocity_cms_drupal.git
 nsn-cookbooks;git@bitbucket.org:m2m/nsn-cookbooks.git;nsn-cookbooks;git@github.softwareag.com:IOTA/nsn-cookbooks.git
+chef-ironfan;git@bitbucket.org:m2m/chef-ironfan.git;chef-ironfan;git@github.softwareag.com:IOTA/chef-ironfan.git
+paypal-test;git@bitbucket.org:m2m/paypal-test.git;paypal-test;git@github.softwareag.com:IOTA/paypal-test.git
+private-agents-linux;git@bitbucket.org:m2m/private-agents-linux.git;private-agents-linux;git@github.softwareag.com:IOTA/private-agents-linux.git
+private-agents-netcomm;git@bitbucket.org:m2m/private-agents-netcomm.git;private-agents-netcomm;git@github.softwareag.com:IOTA/private-agents-netcomm.git
 
