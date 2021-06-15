@@ -1,2 +1,1 @@
 cumulocity-openapi-test;git@github.softwareag.com:IOTA/cumulocity-openapi-test.git;cumulocity-openapi-test;git@bitbucket.org:tsvetty/cumulocity-openapi-test.git
-
