@@ -1,0 +1,6 @@
+cumulocity-agents-netcomm;git@bitbucket.org:m2m/cumulocity-agents-netcomm.git
+cumulocity-agents-linux;git@bitbucket.org:m2m/cumulocity-agents-linux.git
+cumulocity-sdk-cs;git@bitbucket.org:m2m/cumulocity-sdk-cs.git
+c8y-docs;git@bitbucket.org:m2m/c8y-docs.git
+cumulocity-clients-cs;git@bitbucket.org:m2m/cumulocity-clients-cs.git
+pulsar;git@bitbucket.org:m2m/pulsar.git;cumulocity-pulsar
